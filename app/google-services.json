@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034696855283",
+    "firebase_url": "https://androidfoodletseat.firebaseio.com",
+    "project_id": "androidfoodletseat",
+    "storage_bucket": "androidfoodletseat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034696855283:android:6c98da72839a7c5a",
+        "android_client_info": {
+          "package_name": "nam3.baitaplon.letseat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034696855283-kndfvvv0r48815dpm5mg22k4uej9e0lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nam3.baitaplon.letseat",
+            "certificate_hash": "0c84d80e4de84ecb23a029242f28ce5094e0359c"
+          }
+        },
+        {
+          "client_id": "1034696855283-vl4ckqdaodfnu0s70tsgbrc5t0abohaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5j3QEV0RYl4XRS_tGf4-Fz0Kv02vbCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034696855283-vl4ckqdaodfnu0s70tsgbrc5t0abohaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
