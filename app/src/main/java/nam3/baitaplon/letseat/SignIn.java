@@ -41,7 +41,7 @@ public class SignIn extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Đọc từ database
-                table_user.addValueEventListener(new ValueEventListener() {
+                table_user.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //Kiểm tra xem username có tồn tại trong database không
